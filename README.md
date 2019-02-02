@@ -12,7 +12,7 @@ After programming, the device should start to communicate via USART2 / USB seria
 `{ "ambientLightLevel": 1234, "measurementCycle": 10 }`
 
 
-# Techncal
+# Technical
 
  - A LDR (NSL-5152) and a 10k resistor form a voltage divider between Aref and 
  Gnd from STM NUCLEO-F303K8
